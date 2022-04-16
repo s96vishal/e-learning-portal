@@ -155,6 +155,9 @@
       "react-app"
     ]
   },
+  "engines":{
+    "node":"14.x"
+  },
   "devDependencies": {
     "css-loader": "^2.1.1",
     "style-loader": "^0.23.1"
